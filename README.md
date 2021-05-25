@@ -1,5 +1,5 @@
 # Amazon ECS Deep Dive 2018
-
+test
 This repo contains course material organized as follows:
 
 `/cloudformation`: CloudFormation templates to reproduce the infrastructure used in this course
